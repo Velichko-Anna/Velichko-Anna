@@ -23,7 +23,7 @@
           title="DBver" width=70 height=70/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" 
           title="PostgreSQL" width=70 height=70/>&nbsp;
-<img src="https://yolva-it.ru/wp-content/uploads/2023/04/datalens_front-e1737618341223.png" 
+<img src="https://scienceid.net/upload/product/ce/50879/ebf78225_50879.jpg" 
           title="DataLens" width=70 height=70/>&nbsp;
 
 

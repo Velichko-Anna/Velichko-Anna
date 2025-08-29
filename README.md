@@ -25,6 +25,16 @@
           title="PostgreSQL" width=70 height=70/>&nbsp;
 <img src="https://yolva-it.ru/wp-content/uploads/2023/04/datalens_front-e1737618341223.png" 
           title="DataLens" width=70 height=70/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" 
+          title="SQLite" width=70 height=70/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" 
+          title="MySQL" width=70 height=70/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" 
+          title="HTML" width=70 height=70/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original-wordmark.svg" 
+          title="PyCharm" width=70 height=70/>&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Microsoft_Excel_2013-2019_logo.svg/1200px-Microsoft_Excel_2013-2019_logo.svg.png" 
+          title="Excel" width=70 height=70/>&nbsp;
 
 
 

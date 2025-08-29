@@ -12,7 +12,12 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain-wordmark.svg" 
           title="Python" width=70 height=70/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" 
+          title="Pandas" width=70 height=70/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg#:~:text=jupyter%2Doriginal%2D-,wordmark.svg" 
           title="Pandas" width=70 height=70/>
+
+
+
                    
 
 <!--<div id="header" align="center">

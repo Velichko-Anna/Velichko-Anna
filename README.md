@@ -11,6 +11,7 @@
 ### Инструменты:
 <img src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" 
 title="js"width="40"height=40"/>&nbsp
+![python](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css)
 
 <!--<div id="header" align="center">
   <h1>Привет, меня зовут Анна</h1>

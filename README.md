@@ -34,13 +34,13 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original-wordmark.svg" 
           title="PyCharm" width=70 height=70/>&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Microsoft_Excel_2013-2019_logo.svg/1200px-Microsoft_Excel_2013-2019_logo.svg.png" 
-          title="Excel" width=70 height=70/>&nbsp;
+          title="Excel" width=50 height=50/>&nbsp;
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQ_7WQceAP8iOk6TOOtsQvM_i_39R-WEsmag&s" 
-          title="SciPy" width=150 height=70/>&nbsp;
+          title="SciPy" width=100 height=40/>&nbsp;
 <img src="https://chocottopro.com/wp-content/uploads/2024/05/openpyxl.jpg" 
           title="OpenPyxl" width=150 height=70/>&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Microsoft_PowerPoint_2013-2019_logo.svg/1200px-Microsoft_PowerPoint_2013-2019_logo.svg.png" 
-          title="PowerPoint" width=70 height=70/>&nbsp;
+          title="PowerPoint" width=50 height=50/>&nbsp;
 
 
                    

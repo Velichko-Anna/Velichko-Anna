@@ -9,8 +9,8 @@
 - 🚀 Быстро обучаюсь новому, готова к постоянному росту и освоению новых технологий
 
 ### Инструменты:
-<img src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain-wordmark.svg" 
-title="python" width="40" height=40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain-wordmark.svg"/>
+          
 
 ![python](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain-wordmark.svg)
 

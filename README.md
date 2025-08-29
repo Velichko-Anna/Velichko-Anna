@@ -10,7 +10,7 @@
 
 ### Инструменты:
 <img src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain-wordmark.svg" 
-title="js"width="40"height=40"/>&nbsp
+title="python" width="40" height=40"/>&nbsp;
 
 ![python](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain-wordmark.svg)
 

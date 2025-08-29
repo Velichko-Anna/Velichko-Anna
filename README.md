@@ -14,9 +14,18 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" 
           title="Pandas" width=70 height=70/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg#:~:text=jupyter%2Doriginal%2D-,wordmark.svg" 
-          title="Pandas" width=70 height=70/>&nbsp;
+          title="Jupiter" width=70 height=70/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original-wordmark.svg" 
-          title="Pandas" width=70 height=70/>&nbsp;
+          title="Matplotlib" width=70 height=70/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" 
+          title="Numpy" width=70 height=70/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/dbeaver/dbeaver-original.svg" 
+          title="DBver" width=70 height=70/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" 
+          title="PostgreSQL" width=70 height=70/>&nbsp;
+<img src="https://yolva-it.ru/wp-content/uploads/2023/04/datalens_front-e1737618341223.png" 
+          title="DataLens" width=70 height=70/>&nbsp;
+
 
 
 

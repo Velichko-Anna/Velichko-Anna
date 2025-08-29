@@ -1,5 +1,8 @@
 ## Hi there 👋
-
+<div id="header" align="center">
+  <h1>Hi there, I'm Anna</h1>
+<h3>Full Stack Developer from New York</h3>
+</div>
 <!--
 **Velichko-Anna/Velichko-Anna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

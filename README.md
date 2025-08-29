@@ -24,7 +24,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" 
           title="PostgreSQL" width=70 height=70/>&nbsp;
 <img src="https://scienceid.net/upload/product/ce/50879/ebf78225_50879.jpg" 
-          title="DataLens" width=70 height=70/>&nbsp;
+          title="DataLens" width=140 height=70/>&nbsp;
 
 
 

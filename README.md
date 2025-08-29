@@ -40,7 +40,7 @@
 <img src="https://chocottopro.com/wp-content/uploads/2024/05/openpyxl.jpg" 
           title="OpenPyxl" width=150 height=70/>&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Microsoft_PowerPoint_2013-2019_logo.svg/1200px-Microsoft_PowerPoint_2013-2019_logo.svg.png" 
-          title="PowerPoint" width=150 height=70/>&nbsp;
+          title="PowerPoint" width=70 height=70/>&nbsp;
 
 
                    

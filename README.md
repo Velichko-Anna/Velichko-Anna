@@ -12,8 +12,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain-wordmark.svg" title="Python" width=70 height=70/>
           
 
-![python](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain-wordmark.svg)
-
 <!--<div id="header" align="center">
   <h1>Привет, меня зовут Анна</h1>
   <h3>Изучаю мир данных и осваиваю профессию аналитика</h3>
